@@ -1,6 +1,6 @@
 # Preprocessing Techniques for Tubular and Image Datasets
 
-## Things I have Learned
+## WishList
 
 | Tubular Dataset           | Image Dataset                  |
 | ------------------------- | ------------------------------ |

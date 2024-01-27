@@ -6,7 +6,7 @@
 | ------------------------- | ------------------------------ |
 | Data Cleaning             | Image Resizing                 |
 | Handling Missing Values   | Data Augmentation              |
-| Outlier Detection         | Color Normalization            |
+| Outlier Detection     ✅  | Color Normalization            |
 | Feature Scaling           | Image Cropping                 |
 | Dimensionality Reduction  | Image Rotation                  |
 | Handling Categorical Data | Histogram Equalization         |

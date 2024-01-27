@@ -1,6 +1,5 @@
-# Things I've Learned
 
-| Preprocessing Technique     |
+| Background Study             |
 | ---------------------------  |
 | Mean                     ✅ |
 | Mean Absolute Deviation   ✅|

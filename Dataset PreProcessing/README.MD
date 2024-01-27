@@ -1,6 +1,4 @@
-# Preprocessing Techniques for Tubular and Image Datasets
-
-## WishList
+## Preprocessing Techniques WishList
 
 | Tubular Dataset           | Image Dataset                  |
 | ------------------------- | ------------------------------ |

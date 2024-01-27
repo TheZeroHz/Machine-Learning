@@ -18,8 +18,3 @@
 | One-Hot Encoding          | Feature Extraction (e.g., PCA) |
 | Handling Duplicate Data   | Data Augmentation (e.g., GANs)  |
 | ...                       | ...                            |
-
-### Additional Information
-- This repository explores a comprehensive set of preprocessing techniques for both tubular and image datasets.
-- The goal is to enhance the quality and usability of the datasets for downstream machine learning tasks.
-- Contributions and feedback are welcome.

@@ -1,6 +1,9 @@
-Things I've Learned
--Mean
--Mean Absulate Deviation
--Standard Deviation
--Z score
--Outlier
+# Things I've Learned
+
+| Preprocessing Technique      |
+| ---------------------------- |
+| Mean                         |
+| Mean Absolute Deviation      |
+| Standard Deviation           |
+| Z Score                      |
+| Outlier Detection            |
